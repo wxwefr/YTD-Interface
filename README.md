@@ -1,4 +1,4 @@
-# 🎬 YTD-Interface (MP3/MP4)
+#  YTD-Interface (MP3/MP4)
 
 A simple, dark-themed YouTube downloader with a modern UI using `customtkinter`, `yt_dlp`, and `ffmpeg`.
 
@@ -6,17 +6,17 @@ Download YouTube videos as **MP4** (video) or **MP3** (audio only) with customiz
 
 ---
 
-## 📦 Features
+##  Features
 
-- ✅ Download YouTube videos in **MP3** or **MP4**
-- 🎧 Select audio bitrate for MP3: `128`, `192`, `256`, `320`
-- 🎞️ Choose video quality for MP4: `720p`, `1080p`, `4K`
-- 📁 Auto-opens downloads folder after completion
-- 🖥️ Dark-mode GUI built with `customtkinter`
+-  Download YouTube videos in **MP3** or **MP4**
+-  Select audio bitrate for MP3: `128`, `192`, `256`, `320`
+-  Choose video quality for MP4: `720p`, `1080p`, `4K`
+-  Auto-opens downloads folder after completion
+-  Dark-mode GUI built with `customtkinter`
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 - Python 3.10 or newer
 - `ffmpeg` binary (included in packaged EXE)
@@ -24,7 +24,7 @@ Download YouTube videos as **MP4** (video) or **MP3** (audio only) with customiz
   ```bash
   pip install yt-dlp customtkinter
 
-##🧪 Run the Script (Developer Mode)
+## Run the Script (Developer Mode)
 #Clone or download the repo.
 
 #Download ffmpeg static build and place ffmpeg.exe in ffmpeg/bin/
