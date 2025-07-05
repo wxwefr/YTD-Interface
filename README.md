@@ -66,7 +66,9 @@ You can adjust default quality/bitrate in the code
 ## Troubleshooting
 Problem	Solution
 GUI doesn't open	Make sure --noconsole was used
+
 ffmpeg not found	Ensure ffmpeg/bin/ffmpeg.exe exists and is included via --add-data
+
 Downloads fail	Validate the YouTube URL and internet connection
 
 If anymore issues arrive make a request on my github or message me on discord 
