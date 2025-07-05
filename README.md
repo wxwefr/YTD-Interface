@@ -49,7 +49,7 @@ Use PyInstaller to convert to a standalone .exe:
 
 # 2. Build the app
 
-pyinstaller --noconsole --onefile ^ --add-data "ffmpeg;ffmpeg" ^ --icon=icon.ico ^ main.py // FFMpeg/bin/ then the exes must be in the same directory
+pyinstaller --noconsole --onefile --add-data "ffmpeg;ffmpeg" --icon=app.ico main.py // FFMpeg/bin/ then the exes must be in the same directory
 
 After building, your EXE will be in the dist/ folder.
 
